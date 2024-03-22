@@ -7,7 +7,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 
 
-OPENAI_API_KEY = "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" #openAI key (retrieved from platform.openai.com/api-keys)
+OPENAI_API_KEY = "" # openAI key (retrieved from platform.openai.com/api-keys)
 
 #upload pdf files
 st.header("Welcome to LazyReader")
